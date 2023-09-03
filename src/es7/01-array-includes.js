@@ -21,4 +21,5 @@ console.log(list.includes('Oscar')); // false, porque 'Oscar' no está en el arr
 
 
 
+
 // expected output: true
